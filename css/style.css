@@ -1,10 +1,9 @@
 :root {
     box-sizing: border-box;
     font-family: Montserrat, Arial, Helvetica, sans-serif;
-    --primary-color: #000000;
-    --secondary-color: #FAFAFA;
-    --accent-color: #E0BB20;
-    --cta-color: #841818;
+    --primary-color: #363636;
+    --secondary-color: #f9f9f9;
+    --accent-color: #fff;
     
 }
 
