@@ -87,3 +87,14 @@ header {
 }
 
 
+
+
+@media (max-width: 700px){
+   body {
+     background-color: var(--accent-color);
+   }
+
+   .main-nav {
+    display: none;
+   }
+}
